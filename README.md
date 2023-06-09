@@ -1,6 +1,3 @@
-# ToDoApp-Angular
-
-
 
 # TodoList
 
